@@ -1,5 +1,6 @@
 # meanmirror
 
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.meanbeanlib/meanmirror/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.meanbeanlib/meanmirror)
 ![Java CI](https://github.com/meanbeanlib/meanmirror/workflows/Java%20CI/badge.svg)
 
 ## Usage
