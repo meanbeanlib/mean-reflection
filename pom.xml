@@ -3,7 +3,7 @@
 
 	<groupId>com.github.meanbeanlib</groupId>
 	<artifactId>meanmirror</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 	<name>meanmirror</name>
 	<description>
@@ -34,7 +34,7 @@
 		<connection>scm:git:git://github.com/meanbeanlib/meanmirror.git</connection>
 		<developerConnection>scm:git:https://github.com/meanbeanlib/meanmirror.git</developerConnection>
 		<url>http://github.com/meanbeanlib/meanmirror/tree/master</url>
-		<tag>HEAD</tag>
+		<tag>meanmirror-1.0.0</tag>
 	</scm>
 	
 	<developers>
@@ -107,9 +107,9 @@
 					<copyrightOwners>the original author or authors.</copyrightOwners>
 					<emptyLineAfterHeader>true</emptyLineAfterHeader>
 					<licenseName>apache_v2</licenseName>
-					<processStartTag>&#x200b;&#x200b;&#x200b;</processStartTag>
-					<processEndTag>&#xfeff;&#xfeff;&#xfeff;&#xfeff;&#xfeff;</processEndTag>
-					<sectionDelimiter>&#x2063;&#x2063;&#x2063;</sectionDelimiter>
+					<processStartTag>​​​</processStartTag>
+					<processEndTag>﻿﻿﻿﻿﻿</processEndTag>
+					<sectionDelimiter>⁣⁣⁣</sectionDelimiter>
 				</configuration>
 				<executions>
 					<execution>
